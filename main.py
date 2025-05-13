@@ -67,6 +67,7 @@ if __name__ == "__main__":
             "Another chance to win with @GiveRep 👀💎 Grateful for the tag from @gagukpurnotow & @guyub20! #Web3 #AirdropSeason",
             "Daily giveaway hunt continues! Joined @GiveRep with my buddies @gagukpurnotow & @guyub20 🌟 Don’t miss out! #Giverep #CryptoLife"
         ]
+        #ganti tweet ini dan ubah sesuai tag yang kalian inginkan
 
         tweet_content = random.choice(tweet_templates)
         tweet_id = post_tweet(tweet_content)
