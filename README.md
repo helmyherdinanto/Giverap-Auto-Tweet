@@ -6,7 +6,7 @@ Bot ini memungkinkan kamu untuk **mengirim tweet otomatis**, **like**, dan **ret
 
 - **Mengirim tweet otomatis**: Bot akan memposting tweet dengan konten yang acak setiap hari.
 - **Like dan Retweet otomatis**: Setelah tweet diposting, bot akan otomatis melakukan like dan retweet.
-- **Interaksi dengan akun tertentu**: Bot akan menyebut akun tertentu di setiap tweet secara acak, seperti @GiveRep, @gagukpurnotow, dan @guyub20.
+- **Interaksi dengan akun tertentu**: Bot akan menyebut akun tertentu di setiap tweet secara acak, seperti @GiveRep, @teman1, dan @teman2.
 - **Otentikasi menggunakan OAuth 1.0a**: Bot menggunakan OAuth 1.0a untuk autentikasi dengan API Twitter.
 
 ## Persyaratan
